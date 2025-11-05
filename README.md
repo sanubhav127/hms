@@ -6,7 +6,7 @@ A complete hospital management system built using the **MERN stack (MongoDB, Exp
 
 ## 🚀 Features
 
-### 👨‍⚕️ Admin
+### 👨‍⚕️ Receptionist
 - Manage doctors and patients  
 - Manage appointments (create, update, delete)  
 - View and generate billing reports  
@@ -14,11 +14,8 @@ A complete hospital management system built using the **MERN stack (MongoDB, Exp
 ### 👩‍⚕️ Doctor
 - View assigned patients  
 - Manage and update appointments  
-- Access medical records  
-
-### 🧑‍💻 Patient
-- Book, view, or cancel appointments  
-- View billing and reports  
+- Access medical records
+- Add Prescription  
 
 ---
 
